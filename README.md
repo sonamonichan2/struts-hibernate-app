@@ -48,12 +48,3 @@ Contributions to this project are welcome! If you have ideas for improvements, n
 ## License 📝
 
 This project is licensed under the [MIT License](LICENSE).
-
- ## Visitors Count
-
-<img width="auto" src="https://profile-counter.glitch.me/struts2-hibernate/count.svg" />
- 
- ## Please Share & Star the repository to keep me motivated.
-  <a href = "https://github.com/sergio11/struts2-hibernate/stargazers">
-     <img src = "https://img.shields.io/github/stars/sergio11/struts2-hibernate" />
-  </a>
